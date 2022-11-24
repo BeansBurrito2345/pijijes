@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device, initial-scale=1.0">
+  <title>Among Us</title>
+  <link rel="stylesheet" href="grid.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/89c9ce426d.js" crossorigin="anonymous"></script>
+  <script  defer src="index.js"></script>
+</head>
+<body>
+<body class="grid-container">
+  <header class="header">
+    <nav class="nav">
+      <a href="#" class="logo nav-link">Among Us</a>
+      <button class="nav-toggle">
+        <i class="fa-solid fa-bars"></i>
+        </button>
+      <ul class="nav-menu">
+        <li class="nav-menu-item"><a href="index.html" class="nav-menu-link nav-link">Menú</a></li>
+        <li class="nav-menu-item"><a href="inspiracion.html" class="nav-menu-link nav-link">Inspiración</a></li>
+        <li class="nav-menu-item"><a href="lore.html" class="nav-menu-link nav-link">Lore</a></li>
+        <li class="nav-menu-item"><a href="roles.html" class="nav-menu-link nav-link">Roles</a></li>
+        <li class="nav-menu-item"><a href="gallery.html" class="nav-menu-link nav-link nav-menu-link_active">Gallery</a></li>
+		<li class="nav-menu-item"><a href="Galeriashow.html" class="nav-menu-link nav-link nav-menu-link_active">SlideShow</a></li>
+      </ul>
+    </nav>
+      </header>
+  <aside class="sidebar"><h3>Estrenado durante 2018</h3> pero fue popularizado en 2020 <br> <img src="amongusdrip.gif" height="40%">
+</aside>
+  <article class="main"><br><h1><font color="blue">Descripcióm</font></h1><p>Among Us es un juego muy parecido al clásico "El asesino" que hemos jugado alguna vez en cartas, pero llevado al mundo de los videojuegos. Estás en una nave espacial, y dos impostores que están "entre nosotros", de ahí el título, tienen que matar a los otro ocho 
+  tripulantes antes de que estos los descubran. ¿Qué es Among Us y de qué se trata?
+Among Us es un juego multijugador en línea con clasificación PEGI 7+ que permite que un máximo de 10 jugadores asuman los roles de 'Compañero de tripulación' o 'Impostor'. El objetivo del juego es que los Crewmates identifiquen a los jugadores que son los impostores en el juego.
+<br><img src="amogus.jpg" height="400px" alt="Flowers in Chania"></p></article>
+</body>
+</html>
